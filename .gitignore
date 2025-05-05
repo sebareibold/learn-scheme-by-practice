@@ -10,9 +10,3 @@
 # .racket/
 # .racket_prefs/
 
-# Puedes añadir otras cosas que no quieras subir, como:
-# Archivos de logs
-# *.log
-# Archivos binarios compilados (si los hubiera)
-# *.exe
-# *.out
