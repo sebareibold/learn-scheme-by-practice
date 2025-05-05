@@ -15,18 +15,3 @@ To run the exercises, you need to install [DrRacket](https://racket-lang.org/), 
    - Make sure the language is set to **"Determine language from source"** or **"R5RS"** (depending on the syntax used).
    - Click the **Run** button (or press `Ctrl + R`) to execute the code.
 
-## Structure
-
-Each file corresponds to a different exercise. The filenames are descriptive and may follow a numbering system (e.g., `exercise1.scm`, `recursion-examples.scm`, etc.).
-
-## Purpose
-
-These exercises are meant to help understand key concepts in Scheme, such as:
-- Recursion
-- List processing
-- Functional paradigms
-- Symbolic computation
-
----
-
-Feel free to explore, run the code, and experiment to deepen your understanding of Scheme!
