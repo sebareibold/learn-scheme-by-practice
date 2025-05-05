@@ -1,0 +1,3 @@
+; Construccion de Listas con: cons
+
+(cons 'one (cons 'two (cons 'tree (cons 'four '()))))

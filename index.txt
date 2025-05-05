@@ -1,0 +1,7 @@
+Relation of exercise "tp42025" to the fiels
+    ejercicio 1 => valuation-of-expressions.rkt
+    ejercicio 2 => pass-to-scheme-expression.rkt
+    ejercicio 3 => procedure-list.rkt
+    ejercicio 4 => testing-of-expressions.rkt
+    
+    
