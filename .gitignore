@@ -1,0 +1,18 @@
+# Ignore Vim swap files
+*.swp
+
+# Ignore common backup files created by editors like Emacs or Gedit
+*~
+
+# Ignore DrRacket specific directories or files if they are created
+# (often they are temporary or built artifacts)
+# .direnv/
+# .racket/
+# .racket_prefs/
+
+# Puedes añadir otras cosas que no quieras subir, como:
+# Archivos de logs
+# *.log
+# Archivos binarios compilados (si los hubiera)
+# *.exe
+# *.out
